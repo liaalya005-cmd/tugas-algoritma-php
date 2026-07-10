@@ -18,7 +18,7 @@
 Program Menghitung Nilai Rata-Rata Mahasiswa merupakan program sederhana berbasis PHP yang digunakan untuk menghitung rata-rata nilai dari beberapa mata kuliah yang diinput oleh pengguna. Program ini menerapkan konsep dasar algoritma dan pemrograman, seperti variabel, input dan output, operator, serta percabangan untuk menghasilkan perhitungan yang akurat dan mudah dipahami.
 
 
-# Tujuan Program
+# Program Tujuan
 
 - Memahami dasar-dasar algoritma dan pemrograman.
 - Menerapkan konsep PHP dalam menyelesaikan perhitungan sederhana.
